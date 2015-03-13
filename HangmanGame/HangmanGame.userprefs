@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="HangmanGame\HangmanGame.csproj" />
+﻿<Properties StartupItem="HangmanGame\HangmanGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HangmanGame\GameTestClass.cs">
+    <Files>
+      <File FileName="HangmanGame\GameTestClass.cs" Line="32" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

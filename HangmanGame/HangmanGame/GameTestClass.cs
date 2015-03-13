@@ -68,6 +68,30 @@ namespace HangmanGame
 		{
 			Assert.False (true);
 		}
+
+		[Test]
+		public void testInitializeGame ()
+		{
+			Assert.False (true);
+		}
+
+		[Test]
+		public void testSelectTerm ()
+		{
+			Assert.False (true);
+		}
+
+		[Test]
+		public void testInputChar ()
+		{
+			Assert.False (true);
+		}
+
+		[Test]
+		public void testCheckForCorrect ()
+		{
+			Assert.False (true);
+		}
 	}
 }
 
